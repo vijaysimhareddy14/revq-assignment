@@ -1,5 +1,36 @@
 # RevQ take-home submission
 
+## 🚀 Setup Instructions
+
+### 1. Recreate Database
+
+The SQLite database (`revq.db`) is not included in the repo.
+
+Run:
+
+```bash
+cd ingest
+python3 ingest.py ../../exercise/data/blinkit_sample.json
+python3 ingest.py ../../exercise/data/zepto_sample.json
+python3 ingest.py ../../exercise/data/instamart_sample.json
+```
+
+This will generate the database with all products and mappings.
+
+---
+
+### 2. Run Frontend
+
+```bash
+cd app
+npm install
+npm run dev
+```
+
+Open: http://localhost:5173
+
+
+
 ## 1. Cross-platform product identity — how I solved it, what breaks it
 
 Each canonical product gets a deterministic slug: `brand_slug | sorted_flavour_tokens | weight_grams_as_int`.
