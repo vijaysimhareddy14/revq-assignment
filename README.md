@@ -22,6 +22,8 @@ This will generate the database with all products and mappings.
 ### 2. Run Frontend
 
 ```bash
+nvm install 20
+nvm use 20
 cd app
 npm install
 npm run dev
