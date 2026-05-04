@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "641fe781-f2a6-4f17-a704-f301a7e2894d",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|1000g oats rolled wholegrain|1000",
+    "display_name": "Yogabar Wholegrain Rolled Oats | 1000g",
+    "weight_grams": 1000,
+    "image_url": "https://im.swiggy.com/yogabar/oats-1kg.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Wholegrain Rolled Oats | 1000g",
+        "image_url": "https://im.swiggy.com/yogabar/oats-1kg.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 299,
+        "selling_price": 239,
+        "discount_pct": 20.1,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "889d509f-01b2-457b-9e4b-e7540e85a2ec",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|1kg oats rolled|1000",
+    "display_name": "YOGABAR ROLLED OATS 1KG",
+    "weight_grams": 1000,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-oats-1kg.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR ROLLED OATS 1KG",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-oats-1kg.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 299,
+        "selling_price": 249,
+        "discount_pct": 16.7,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "cecad3c3-85d3-4dc5-81aa-70d4a6106785",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|20g cocoa double protein|20",
+    "display_name": "YOGABAR 20G PROTEIN BAR DOUBLE COCOA PACK OF 6",
+    "weight_grams": 20,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-p20-dcoc-p6.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR 20G PROTEIN BAR DOUBLE COCOA PACK OF 6",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-p20-dcoc-p6.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 720,
+        "selling_price": 619,
+        "discount_pct": 14.0,
+        "total_pincodes": 7,
+        "live_pincodes": 2,
+        "oos_pincodes": [
+          "560001",
+          "560076",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b72ac864-c4a8-48f2-9e3c-2b431920b0cb",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|21g cocoa double protein|21",
+    "display_name": "Yogabar 21g Protein Bar - Double Cocoa (Pack of 6)",
+    "weight_grams": 21,
+    "image_url": "https://cdn.blinkit.com/yogabar-21g-dcoc-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar 21g Protein Bar - Double Cocoa (Pack of 6)",
+        "image_url": "https://cdn.blinkit.com/yogabar-21g-dcoc-p6.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 720,
+        "selling_price": 599,
+        "discount_pct": 16.8,
+        "total_pincodes": 8,
+        "live_pincodes": 3,
+        "oos_pincodes": [
+          "560001",
+          "560066",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "39989769-e8dc-4d7f-8eb8-cdd58cd717a9",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|228gm cranberry multigrain|228",
+    "display_name": "YOGABAR MULTIGRAIN BAR CRANBERRY PACK OF 6 - 228GM",
+    "weight_grams": 228,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-meb-cran.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR MULTIGRAIN BAR CRANBERRY PACK OF 6 - 228GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-meb-cran.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 240,
+        "selling_price": 199,
+        "discount_pct": 17.1,
+        "total_pincodes": 7,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cc198b21-e45b-4651-92a9-712278db5e40",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|228gm mango multigrain|228",
+    "display_name": "YOGABAR MULTIGRAIN BAR MANGO PACK OF 6 - 228GM",
+    "weight_grams": 228,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-meb-mango.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR MULTIGRAIN BAR MANGO PACK OF 6 - 228GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-meb-mango.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 240,
+        "selling_price": 209,
+        "discount_pct": 12.9,
+        "total_pincodes": 7,
+        "live_pincodes": 3,
+        "oos_pincodes": [
+          "560001",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "865fd7df-b558-49db-80e1-a3ca060dadbd",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|360g almond fudge protein|360",
+    "display_name": "Yogabar Almond Fudge Protein Bar - Pack of 6 (360g)",
+    "weight_grams": 360,
+    "image_url": "https://cdn.blinkit.com/yogabar-alf-60-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Almond Fudge Protein Bar - Pack of 6 (360g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-alf-60-p6.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 600,
+        "selling_price": 479,
+        "discount_pct": 20.2,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b4ec7130-50e5-4e23-8db7-23f0a1d1ea3b",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|360g butter chocolate peanut protein|360",
+    "display_name": "Yogabar Peanut Butter Chocolate Protein Bar - Pack of 6 (360g)",
+    "weight_grams": 360,
+    "image_url": "https://cdn.blinkit.com/yogabar-pbc-60-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Peanut Butter Chocolate Protein Bar - Pack of 6 (360g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-pbc-60-p6.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 600,
+        "selling_price": 449,
+        "discount_pct": 25.2,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "df4c38a8-f5c2-416f-b9bf-1004ac31bdcc",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|360g chocolate chunk nuts protein|360",
+    "display_name": "Yogabar Chocolate Chunk & Nuts Protein Bar - Pack of 6 (360g)",
+    "weight_grams": 360,
+    "image_url": "https://cdn.blinkit.com/yogabar-ccn-60-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Chocolate Chunk & Nuts Protein Bar - Pack of 6 (360g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-ccn-60-p6.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 600,
+        "selling_price": 449,
+        "discount_pct": 25.2,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "98f6d127-4c4e-4352-a253-d73ea341038a",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|360g mixed protein variety|360",
+    "display_name": "Yogabar Protein Bar | Variety | 6 Bars Mixed | 360g",
+    "weight_grams": 360,
+    "image_url": "https://im.swiggy.com/yogabar/variety-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Protein Bar | Variety | 6 Bars Mixed | 360g",
+        "image_url": "https://im.swiggy.com/yogabar/variety-p6.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 600,
+        "selling_price": 449,
+        "discount_pct": 25.2,
+        "total_pincodes": 8,
+        "live_pincodes": 3,
+        "oos_pincodes": [
+          "560001",
+          "560066",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2020183b-2555-4ae3-aa5a-a776ac99e2b7",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|360gm butter choc peanut|360",
+    "display_name": "YOGABAR PEANUT BUTTER CHOC BAR PACK OF 6 - 360GM",
+    "weight_grams": 360,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-pbc-60-p6.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR PEANUT BUTTER CHOC BAR PACK OF 6 - 360GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-pbc-60-p6.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 600,
+        "selling_price": 469,
+        "discount_pct": 21.8,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "f1c2fe61-4b2a-41c9-a885-5cfee8615488",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|38g cranberry energy grain multi|38",
+    "display_name": "Yogabar Multi Grain Energy Bar - Cranberry (38g x 6)",
+    "weight_grams": 38,
+    "image_url": "https://cdn.blinkit.com/yogabar-meb-cran.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Multi Grain Energy Bar - Cranberry (38g x 6)",
+        "image_url": "https://cdn.blinkit.com/yogabar-meb-cran.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 240,
+        "selling_price": 189,
+        "discount_pct": 21.3,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "99a314e5-50a3-4121-b1f9-aa28e3ce3f89",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|38g energy grain mango multi|38",
+    "display_name": "Yogabar Multi Grain Energy Bar - Mango (38g x 6)",
+    "weight_grams": 38,
+    "image_url": "https://cdn.blinkit.com/yogabar-meb-mango.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Multi Grain Energy Bar - Mango (38g x 6)",
+        "image_url": "https://cdn.blinkit.com/yogabar-meb-mango.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 240,
+        "selling_price": 189,
+        "discount_pct": 21.3,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e998631a-41ed-4f39-99dc-1695579ee6a3",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400g almond cashew crunch muesli|400",
+    "display_name": "Yogabar Almond + Cashew Crunch Muesli | 400g",
+    "weight_grams": 400,
+    "image_url": "https://im.swiggy.com/yogabar/muesli-almond-cashew-400.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Almond + Cashew Crunch Muesli | 400g",
+        "image_url": "https://im.swiggy.com/yogabar/muesli-almond-cashew-400.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 399,
+        "selling_price": 299,
+        "discount_pct": 25.1,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "32c12a86-72aa-4916-b283-63eceec40031",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400g butter crunchy natural peanut|400",
+    "display_name": "Yogabar Natural Peanut Butter | Crunchy | 400g",
+    "weight_grams": 400,
+    "image_url": "https://im.swiggy.com/yogabar/pb-crunchy.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Natural Peanut Butter | Crunchy | 400g",
+        "image_url": "https://im.swiggy.com/yogabar/pb-crunchy.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 399,
+        "selling_price": 289,
+        "discount_pct": 27.6,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "b64bef3f-709a-4f17-9edd-42dc937f10e0",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400g butter natural peanut smooth|400",
+    "display_name": "Yogabar Natural Peanut Butter | Smooth | 400g",
+    "weight_grams": 400,
+    "image_url": "https://im.swiggy.com/yogabar/pb-smooth.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Natural Peanut Butter | Smooth | 400g",
+        "image_url": "https://im.swiggy.com/yogabar/pb-smooth.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 399,
+        "selling_price": 289,
+        "discount_pct": 27.6,
+        "total_pincodes": 8,
+        "live_pincodes": 7,
+        "oos_pincodes": [
+          "560066"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "088ad9dd-20b0-4376-b27d-8376d5391c29",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400g chocolate cranberry dark muesli|400",
+    "display_name": "Yogabar Muesli | Dark Chocolate & Cranberry | 400g",
+    "weight_grams": 400,
+    "image_url": "https://im.swiggy.com/yogabar/muesli-dccran-400.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Muesli | Dark Chocolate & Cranberry | 400g",
+        "image_url": "https://im.swiggy.com/yogabar/muesli-dccran-400.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 399,
+        "selling_price": 309,
+        "discount_pct": 22.6,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "0d2669e6-6ba0-4938-9b6c-33bd0714bd41",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400g oats rolled wholegrain|400",
+    "display_name": "Yogabar Wholegrain Rolled Oats | 400g",
+    "weight_grams": 400,
+    "image_url": "https://im.swiggy.com/yogabar/oats-400.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Wholegrain Rolled Oats | 400g",
+        "image_url": "https://im.swiggy.com/yogabar/oats-400.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 149,
+        "selling_price": 109,
+        "discount_pct": 26.8,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7a94d3e6-2881-44a5-a161-76613def0377",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400gm almond cereal choco wholegrain|400",
+    "display_name": "YOGABAR WHOLEGRAIN CEREAL CHOCO ALMOND 400GM",
+    "weight_grams": 400,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-cereal-chocalm.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR WHOLEGRAIN CEREAL CHOCO ALMOND 400GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-cereal-chocalm.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 399,
+        "selling_price": 339,
+        "discount_pct": 15.0,
+        "total_pincodes": 7,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d3d2a457-06b1-497c-8ec7-9646fc0156e1",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400gm almond crunch muesli|400",
+    "display_name": "YOGABAR ALMOND CRUNCH MUESLI 400GM",
+    "weight_grams": 400,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-muesli-almond-400.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR ALMOND CRUNCH MUESLI 400GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-muesli-almond-400.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 399,
+        "selling_price": 319,
+        "discount_pct": 20.1,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "fb5fee9b-abda-4882-8236-cb6fecc7e64c",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400gm butter crunchy peanut|400",
+    "display_name": "YOGABAR PEANUT BUTTER CRUNCHY 400GM",
+    "weight_grams": 400,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-pb-crunchy.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR PEANUT BUTTER CRUNCHY 400GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-pb-crunchy.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 399,
+        "selling_price": 299,
+        "discount_pct": 25.1,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "d6353d83-7096-42b1-a86c-0030297c27d4",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400gm butter peanut smooth|400",
+    "display_name": "YOGABAR PEANUT BUTTER SMOOTH 400GM",
+    "weight_grams": 400,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-pb-smooth.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR PEANUT BUTTER SMOOTH 400GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-pb-smooth.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 399,
+        "selling_price": 299,
+        "discount_pct": 25.1,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "4d362dce-dcd0-4e32-beaa-9ca1786b0632",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400gm choc cranberry dark muesli|400",
+    "display_name": "YOGABAR DARK CHOC CRANBERRY MUESLI 400GM",
+    "weight_grams": 400,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-muesli-dccran-400.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR DARK CHOC CRANBERRY MUESLI 400GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-muesli-dccran-400.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 399,
+        "selling_price": 319,
+        "discount_pct": 20.1,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "649d13e6-1309-4494-8308-edb8f06e2abc",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|400gm oats rolled|400",
+    "display_name": "YOGABAR ROLLED OATS 400GM",
+    "weight_grams": 400,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-oats-400.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR ROLLED OATS 400GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-oats-400.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 149,
+        "selling_price": 119,
+        "discount_pct": 20.1,
+        "total_pincodes": 7,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5a59f71e-e99f-4740-a9d8-8d691011c02a",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|60g butter chocolate chunk peanut protein variety|60",
+    "display_name": "Yogabar Protein Bar Variety Pack - Chocolate Chunk & Peanut Butter (6 x 60g)",
+    "weight_grams": 60,
+    "image_url": "https://cdn.blinkit.com/yogabar-variety-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Protein Bar Variety Pack - Chocolate Chunk & Peanut Butter (6 x 60g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-variety-p6.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 600,
+        "selling_price": 459,
+        "discount_pct": 23.5,
+        "total_pincodes": 8,
+        "live_pincodes": 3,
+        "oos_pincodes": [
+          "560001",
+          "560066",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3d3e64f9-affb-4982-bb45-fcc7fc6666a7",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|60g chocolate chunk nuts protein|360",
+    "display_name": "Yogabar Protein Bar | Chocolate Chunk & Nuts | 60g | Pack of 6",
+    "weight_grams": 360,
+    "image_url": "https://im.swiggy.com/yogabar/ccn-60-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Protein Bar | Chocolate Chunk & Nuts | 60g | Pack of 6",
+        "image_url": "https://im.swiggy.com/yogabar/ccn-60-p6.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 600,
+        "selling_price": 459,
+        "discount_pct": 23.5,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "2043a6e8-dfec-444b-855e-b34a6be1e518",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|60g chocolate chunk nuts protein|60",
+    "display_name": "Yogabar Protein Bar | Chocolate Chunk & Nuts | 60g | Pack of 1",
+    "weight_grams": 60,
+    "image_url": "https://im.swiggy.com/yogabar/ccn-60.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Protein Bar | Chocolate Chunk & Nuts | 60g | Pack of 1",
+        "image_url": "https://im.swiggy.com/yogabar/ccn-60.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 100,
+        "selling_price": 72,
+        "discount_pct": 28.0,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "29594c7e-0a38-4122-872e-82704d29a310",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|60gm butter choc peanut protein|60",
+    "display_name": "YOGABAR PEANUT BUTTER CHOC PROTEIN BAR 60GM",
+    "weight_grams": 60,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-pbc-60.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR PEANUT BUTTER CHOC PROTEIN BAR 60GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-pbc-60.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 100,
+        "selling_price": 75,
+        "discount_pct": 25.0,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "94d7c2c6-7ba3-4af0-b7ab-eab5c9e06bc7",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|60gm chocolate chunk nuts protein|60",
+    "display_name": "YOGABAR CHOCOLATE CHUNK NUTS PROTEIN BAR 60GM",
+    "weight_grams": 60,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-ccn-60.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR CHOCOLATE CHUNK NUTS PROTEIN BAR 60GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-ccn-60.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 100,
+        "selling_price": 78,
+        "discount_pct": 22.0,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "9adaad54-d599-4a3b-9c2c-177e9bcd4003",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|6x60g almond fudge|60",
+    "display_name": "YOGABAR ALMOND FUDGE BAR PACK OF 6 - 6X60G",
+    "weight_grams": 60,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-alf-60-p6.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR ALMOND FUDGE BAR PACK OF 6 - 6X60G",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-alf-60-p6.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 600,
+        "selling_price": 489,
+        "discount_pct": 18.5,
+        "total_pincodes": 7,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1ef31a88-13c2-4633-ac20-c3a5bcf60c2c",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|6x60gm choc chunk nuts|60",
+    "display_name": "YOGABAR CHOC CHUNK NUTS BAR PACK OF 6 - 6X60GM",
+    "weight_grams": 60,
+    "image_url": "https://cdn.zeptonow.com/p/ygb-ccn-60-p6.png",
+    "listings": [
+      {
+        "platform_id": "zepto",
+        "display_name": "YOGABAR CHOC CHUNK NUTS BAR PACK OF 6 - 6X60GM",
+        "image_url": "https://cdn.zeptonow.com/p/ygb-ccn-60-p6.png",
+        "last_scraped_at": "2026-04-28T00:00:00",
+        "mrp": 600,
+        "selling_price": 480,
+        "discount_pct": 20.0,
+        "total_pincodes": 7,
+        "live_pincodes": 7,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "4a7ce50a-b11c-476b-ac29-31b11bf05c43",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|700g chocolate cranberry dark muesli|700",
+    "display_name": "Yogabar Muesli | Dark Chocolate & Cranberry | 700g",
+    "weight_grams": 700,
+    "image_url": "https://im.swiggy.com/yogabar/muesli-dccran-700.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Muesli | Dark Chocolate & Cranberry | 700g",
+        "image_url": "https://im.swiggy.com/yogabar/muesli-dccran-700.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 599,
+        "selling_price": 469,
+        "discount_pct": 21.7,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "121759d7-ea19-4d05-aaea-37ce7915dde7",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|720g almond fudge protein|720",
+    "display_name": "Yogabar Almond Fudge Protein Bar - Pack of 12 (720g)",
+    "weight_grams": 720,
+    "image_url": "https://cdn.blinkit.com/yogabar-alf-60-p12.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Almond Fudge Protein Bar - Pack of 12 (720g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-alf-60-p12.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 1200,
+        "selling_price": 899,
+        "discount_pct": 25.1,
+        "total_pincodes": 8,
+        "live_pincodes": 2,
+        "oos_pincodes": [
+          "560001",
+          "560066",
+          "560076",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11902655-ec4d-4352-be3c-56bb8b5aed41",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|almond breakfast cereal choco wholegrain|400",
+    "display_name": "Yogabar Wholegrain Breakfast Cereal - Choco Almond (400 g)",
+    "weight_grams": 400,
+    "image_url": "https://cdn.blinkit.com/yogabar-cereal-chocalm.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Wholegrain Breakfast Cereal - Choco Almond (400 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-cereal-chocalm.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 399,
+        "selling_price": 319,
+        "discount_pct": 20.1,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      },
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Wholegrain Breakfast Cereal | Choco Almond | 400 g",
+        "image_url": "https://im.swiggy.com/yogabar/cereal-chocalm.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 399,
+        "selling_price": 329,
+        "discount_pct": 17.5,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0a5309c8-f40b-4a2b-9222-a59c8ad30b1b",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|almond crunch muesli|400",
+    "display_name": "Yogabar Almond Crunch Muesli (400 g)",
+    "weight_grams": 400,
+    "image_url": "https://cdn.blinkit.com/yogabar-muesli-almond-400.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Almond Crunch Muesli (400 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-muesli-almond-400.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 399,
+        "selling_price": 309,
+        "discount_pct": 22.6,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "97ba3e49-40a7-4256-aa84-f18bed986486",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|almond fudge protein|360",
+    "display_name": "Yogabar Protein Bar | Almond Fudge | 60 g | Pack of 6",
+    "weight_grams": 360,
+    "image_url": "https://im.swiggy.com/yogabar/alf-60-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Protein Bar | Almond Fudge | 60 g | Pack of 6",
+        "image_url": "https://im.swiggy.com/yogabar/alf-60-p6.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 600,
+        "selling_price": 469,
+        "discount_pct": 21.8,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f202ce05-325b-477e-9f0d-f1a639e7cb96",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|almond fudge protein|60",
+    "display_name": "Yogabar Almond Fudge Protein Bar (60 g)",
+    "weight_grams": 60,
+    "image_url": null,
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Almond Fudge Protein Bar (60 g)",
+        "image_url": null,
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 100,
+        "selling_price": 79,
+        "discount_pct": 21.0,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2199f4d-18bf-4088-a6ce-387b9602a064",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|butter chocolate dark peanut|400",
+    "display_name": "Yogabar Dark Chocolate Peanut Butter (400 g)",
+    "weight_grams": 400,
+    "image_url": "https://cdn.blinkit.com/yogabar-pb-dark.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Dark Chocolate Peanut Butter (400 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-pb-dark.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 399,
+        "selling_price": 299,
+        "discount_pct": 25.1,
+        "total_pincodes": 8,
+        "live_pincodes": 3,
+        "oos_pincodes": [
+          "560001",
+          "560066",
+          "560095",
+          "560102",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1231e51e-c080-42c3-a08c-a5f59bb9b0bd",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|butter chocolate peanut protein|360",
+    "display_name": "Yogabar Protein Bar | Peanut Butter Chocolate | Pack of 6",
+    "weight_grams": 360,
+    "image_url": "https://im.swiggy.com/yogabar/pbc-60-p6.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Protein Bar | Peanut Butter Chocolate | Pack of 6",
+        "image_url": "https://im.swiggy.com/yogabar/pbc-60-p6.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 600,
+        "selling_price": 449,
+        "discount_pct": 25.2,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "a9322dab-1c52-4f19-8b2e-8aba6a713109",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|butter chocolate peanut protein|60",
+    "display_name": "Yogabar Peanut Butter Chocolate Protein Bar (60 g)",
+    "weight_grams": 60,
+    "image_url": "https://cdn.blinkit.com/yogabar-pbc-60.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Peanut Butter Chocolate Protein Bar (60 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-pbc-60.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 100,
+        "selling_price": 70,
+        "discount_pct": 30.0,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "4df6ca04-1d45-4115-9b22-1a4e667c77e0",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|butter crunchy peanut|400",
+    "display_name": "Yogabar Peanut Butter - Crunchy (400 g)",
+    "weight_grams": 400,
+    "image_url": "https://cdn.blinkit.com/yogabar-pb-crunchy.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Peanut Butter - Crunchy (400 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-pb-crunchy.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 399,
+        "selling_price": 289,
+        "discount_pct": 27.6,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "f1624fc2-0a76-4e3c-bbfb-6ec73e4ad8dc",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|butter peanut smooth|400",
+    "display_name": "Yogabar Peanut Butter - Smooth (400 g)",
+    "weight_grams": 400,
+    "image_url": "https://cdn.blinkit.com/yogabar-pb-smooth.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Peanut Butter - Smooth (400 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-pb-smooth.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 399,
+        "selling_price": 289,
+        "discount_pct": 27.6,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "c7da8011-20e3-490f-9ea4-05031063082b",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|chocolate chunk nuts protein|60",
+    "display_name": "Yogabar Chocolate Chunk & Nuts Protein Bar (60 g)",
+    "weight_grams": 60,
+    "image_url": "https://cdn.blinkit.com/yogabar-ccn-60.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Chocolate Chunk & Nuts Protein Bar (60 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-ccn-60.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 100,
+        "selling_price": 75,
+        "discount_pct": 25.0,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "12cc5737-0410-4617-9924-63bcf399493b",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|chocolate cranberry dark muesli|400",
+    "display_name": "Yogabar Dark Chocolate & Cranberry Muesli (400 g)",
+    "weight_grams": 400,
+    "image_url": "https://cdn.blinkit.com/yogabar-muesli-dccran-400.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Dark Chocolate & Cranberry Muesli (400 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-muesli-dccran-400.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 399,
+        "selling_price": 299,
+        "discount_pct": 25.1,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "b9883355-48ab-4814-82f2-e8c03aefe958",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|chocolate cranberry dark muesli|700",
+    "display_name": "Yogabar Dark Chocolate & Cranberry Muesli (700 g)",
+    "weight_grams": 700,
+    "image_url": "https://cdn.blinkit.com/yogabar-muesli-dccran-700.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Dark Chocolate & Cranberry Muesli (700 g)",
+        "image_url": "https://cdn.blinkit.com/yogabar-muesli-dccran-700.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 599,
+        "selling_price": 449,
+        "discount_pct": 25.0,
+        "total_pincodes": 8,
+        "live_pincodes": 5,
+        "oos_pincodes": [
+          "560066",
+          "560095",
+          "560103"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0c2c65c5-e143-487a-9446-abf6194b1034",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|cranberry energy multigrain|228",
+    "display_name": "Yogabar Multigrain Energy Bar | Cranberry | Pack of 6 | 228 g",
+    "weight_grams": 228,
+    "image_url": "https://im.swiggy.com/yogabar/meb-cran.jpg",
+    "listings": [
+      {
+        "platform_id": "instamart",
+        "display_name": "Yogabar Multigrain Energy Bar | Cranberry | Pack of 6 | 228 g",
+        "image_url": "https://im.swiggy.com/yogabar/meb-cran.jpg",
+        "last_scraped_at": "1714291800T00:00:00+00:00",
+        "mrp": 240,
+        "selling_price": 189,
+        "discount_pct": 21.3,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  },
+  {
+    "id": "fa32adcc-454d-4fb0-8cb0-114c97c8526c",
+    "brand": "Yogabar",
+    "canonical_name": "yogabar|oats rolled wholegrain|1000",
+    "display_name": "Yogabar Wholegrain Rolled Oats (1 kg)",
+    "weight_grams": 1000,
+    "image_url": "https://cdn.blinkit.com/yogabar-oats-1kg.jpg",
+    "listings": [
+      {
+        "platform_id": "blinkit",
+        "display_name": "Yogabar Wholegrain Rolled Oats (1 kg)",
+        "image_url": "https://cdn.blinkit.com/yogabar-oats-1kg.jpg",
+        "last_scraped_at": "2026-04-28T08:30:00+00:00",
+        "mrp": 299,
+        "selling_price": 229,
+        "discount_pct": 23.4,
+        "total_pincodes": 8,
+        "live_pincodes": 8,
+        "oos_pincodes": []
+      }
+    ]
+  }
+]
